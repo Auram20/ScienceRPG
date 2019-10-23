@@ -1,0 +1,34 @@
+Nutzungsbedingungen
+================================
+
+$Anubis.png
+$Nura_Candle.png
+Nura_Egypt_A4.png
+Nura_Egypt_A5.png
+Nura_Egypt_B.png
+Nura_Keller_B.png
+
+
+De:
+------
+
+Bei den Ressourcen handelt es sich um Edits des MV-RTPs, daher musst du den RPG Maker MV besitzen, wenn du sie verwenden willst. Die Ressourcen dürfen ausschließlich im RPG Maker verwendet werden!
+-> Für nicht kommerzielle Spiele sind die Ressourcen frei verwendbar. 
+-> Nutzt du sie für kommerzielle Projekte, möchte ich eine Version des fertigen Spiels haben.
+-> Credits gehen an Kadokawa/Enterbrain, an mich (NuraRay) und an die Künslter, die in einigen Cowork-Sets mit involviert waren.
+
+-> Edits für eigene Zwecke sind uneingeschränkt erlaubt. Kein Repost meiner Tiles oder daraus entstandene Edits!
+
+================================
+
+En:
+-------
+
+These ressources are edits of the MV-RTP, so you have to own the RPG Maker MV if you want to use them.
+
+The ressources may only be used in the RPG Maker program! 
+-> Free to use for non commercial games. I want a finished version of your game -> if you use the ressources for commercial projects i want a finished version of your game 
+-> Credits goes to Kadokawa/Enterbrain, to me (NuraRay) and other artists who are involved in some cowork-sets.
+
+-> Edits for own purposes are free allowed. 
+-> No reposts of my tilesets or resulting edits!
